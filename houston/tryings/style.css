@@ -1,0 +1,30 @@
+p {
+  color: red;
+  background-color: #333;
+}
+
+.card {
+    background-color: blue;
+}
+
+.more {
+    background: yellow;
+}
+
+a {
+    color: red;
+}
+
+.foo {
+    color: green;
+    background-color: yellow;
+}
+
+#foo {
+    color: red;
+    background-color: violet;
+}
+
+.target {
+    text-decoration: underline;
+}
